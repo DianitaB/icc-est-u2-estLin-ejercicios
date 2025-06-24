@@ -37,4 +37,5 @@ public class App {
         LinkedList<Integer> original = new LinkedList<>(Arrays.asList(1, 2, 3, 4, 5, 6));
         System.out.println("clasificarPorParidad([1, 2, 3, 4, 5, 6]): " + logica.clasificarPorParidad(original));
     }
+    //
 }
